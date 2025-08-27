@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-08-20 19:57:50" Modified_Date="2025-08-27 17:36:21" Creator="Ashiq" Comments="" ID="c773cc5b3346ff0e02684906a4466b60">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-08-20 19:57:50" Modified_Date="2025-08-27 18:15:56" Creator="Ashiq" Comments="" ID="f508a16c499ec1997606ee3d7a2d2eda">
   <Library_General_Settings>
     <Package_File_Name>LVN_Show_Attached_Object_Menu_for_BD_Comments</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -38,7 +38,7 @@ When you are debugging some code and there is a comment floating around pointing
 This package installs the RCM for all the LabVIEW versions 2020 &amp; above.</Description>
       <Copyright/>
       <Packager>Mohammed Ashiq S</Packager>
-      <URL/>
+      <URL>https://github.com/LabVIEW-Nation/Show-Attached-Object--Menu-for-BD-Comments</URL>
       <Release_Notes/>
     </Description>
     <Destinations>
